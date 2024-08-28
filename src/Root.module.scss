@@ -1,0 +1,15 @@
+section {
+  display: flex;
+  width: 100vw;
+  height: 100vw;
+  overflow: hidden;
+  background: #f5f6fa;
+
+  .outlet_container {
+    display: flex;
+    width: calc(100vw - 290px);
+    padding: 50px 30px;
+    box-sizing: border-box;
+    background: #f5f6fa;
+  }
+}
